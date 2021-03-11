@@ -1,2 +1,1 @@
-# ws-java-general
-# ws-java-general
+## Code, Design and Practices
