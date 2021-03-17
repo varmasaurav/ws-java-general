@@ -14,3 +14,4 @@
   * Different type of vehicles can be parked
   * Is customisable by the customer.
   * Has the flexibility to be automated
+  * Customer can have subsription model
